@@ -1,0 +1,19 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Mi Lista de Tareas</string>
+
+    <!-- Textos de interfaz -->
+    <string name="add_task_hint">Escribe tu tarea aquí...</string>
+    <string name="add_button">Añadir</string>
+    <string name="delete_task">Eliminar tarea</string>
+    <string name="task_completed">Tarea completada</string>
+    <string name="task_pending">Tarea pendiente</string>
+
+    <!-- Mensajes de validación -->
+    <string name="empty_task_error">Por favor, escribe una tarea</string>
+    <string name="short_task_error">La tarea debe tener al menos 3 caracteres</string>
+
+    <!-- Mensajes de acción -->
+    <string name="task_added">Tarea añadida</string>
+    <string name="task_deleted">Tarea eliminada</string>
+</resources>
