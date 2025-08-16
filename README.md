@@ -1,19 +1,17 @@
-📱 MyAppMovil - ToDo List
+# 📱 MyAppMovil - ToDo List
 
-Aplicación móvil desarrollada en Android para la gestión de tareas pendientes (ToDo List).
-Permite crear, visualizar y eliminar tareas de manera sencilla con una interfaz amigable.
+Aplicación móvil desarrollada en **Android** para la gestión de tareas pendientes (ToDo List). Permite crear, visualizar y eliminar tareas de manera sencilla con una interfaz amigable.
 
-🚀 Tecnologías utilizadas
+## 🚀 Tecnologías utilizadas
 
-Lenguajes: Java y Kotlin
+- **Lenguajes:** Java y Kotlin
+- **Framework:** Android SDK
+- **Interfaz de usuario:** XML con `RecyclerView` y `Adapters`
+- **Gestión de dependencias:** Gradle (Kotlin DSL)
 
-Framework: Android SDK
+## 📂 Estructura del proyecto
 
-Interfaz de usuario: XML con RecyclerView y Adapters
-
-Gestión de dependencias: Gradle (Kotlin DSL)
-
-📂 Estructura del proyecto
+```
 MyAppMovil-main/
 │── app/
 │   ├── src/
@@ -31,28 +29,50 @@ MyAppMovil-main/
 │── build.gradle.kts
 │── settings.gradle.kts
 │── gradle.properties
+```
 
-⚙️ Funcionalidades principales
+## ⚙️ Funcionalidades principales
 
-✔️ Agregar nuevas tareas
-✔️ Visualizar lista de tareas en un RecyclerView
-✔️ Eliminar tareas
-✔️ Estilos personalizados para botones y campos de texto
-✔️ Interfaz adaptada a Material Design
+- ✅ Agregar nuevas tareas
+- ✅ Visualizar lista de tareas en un `RecyclerView`
+- ✅ Eliminar tareas
+- ✅ Estilos personalizados para botones y campos de texto
+- ✅ Interfaz adaptada a Material Design
 
-📲 Instalación y ejecución
+## 📲 Instalación y ejecución
 
-Clonar este repositorio:
+1. **Clonar este repositorio:**
+   ```bash
+   git clone https://github.com/usuario/MyAppMovil.git
+   ```
 
-git clone https://github.com/usuario/MyAppMovil.git
+2. **Abrir el proyecto** en Android Studio.
 
+3. **Sincronizar dependencias** con Gradle.
 
-Abrir el proyecto en Android Studio.
+4. **Ejecutar** en un emulador o dispositivo Android con versión mínima **API 24 (Android 7.0 Nougat)**.
 
-Sincronizar dependencias con Gradle.
+## 👨‍💻 Autores
 
-Ejecutar en un emulador o dispositivo Android con versión mínima API 24 (Android 7.0 Nougat).
+Proyecto desarrollado por **[Tu Nombre / Equipo]** en el marco de formación académica en desarrollo de software.
 
-👨‍💻 Autores
+## 📋 Requisitos del sistema
 
-Proyecto desarrollado por [Tu Nombre / Equipo] en el marco de formación académica en desarrollo de software.
+- **Android Studio:** 4.0 o superior
+- **JDK:** 8 o superior
+- **Android SDK:** API 24+
+- **Gradle:** 7.0+
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Por favor:
+
+1. Fork el proyecto
+2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
+3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre un Pull Request
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles.
