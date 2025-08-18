@@ -1,6 +1,8 @@
 # 📱 MyAppMovil - ToDo List
 
 Aplicación móvil desarrollada en **Android** para la gestión de tareas pendientes (ToDo List). Permite crear, visualizar y eliminar tareas de manera sencilla con una interfaz amigable.
+![IMG_20250818_111944](https://github.com/user-attachments/assets/a27fc075-c4b2-4d8f-8305-4801ac1fb904)
+
 
 ## 🚀 Tecnologías utilizadas
 
