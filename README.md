@@ -54,7 +54,7 @@ MyAppMovil-main/
 
 ## 👨‍💻 Autores
 
-Proyecto desarrollado por **[Tu Nombre / Equipo]** en el marco de formación académica en desarrollo de software.
+Proyecto desarrollado por Rafael Alvarez en el marco de formación académica en desarrollo de software.
 
 ## 📋 Requisitos del sistema
 
